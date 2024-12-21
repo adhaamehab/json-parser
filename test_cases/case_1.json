@@ -1,0 +1,227 @@
+[
+  {
+    "_id": "67669ee988ee736b093f622d",
+    "index": 0,
+    "guid": "8882ae14-8d45-482a-86af-7a1ea8973adb",
+    "isActive": false,
+    "balance": "$3,486.68",
+    "picture": "http://placehold.it/32x32",
+    "age": 40,
+    "eyeColor": "brown",
+    "name": "Delores Bond",
+    "gender": "female",
+    "company": "NETPLAX",
+    "email": "deloresbond@netplax.com",
+    "phone": "+1 (926) 570-2869",
+    "address": "745 Scott Avenue, Avoca, Mississippi, 358",
+    "about": "Fugiat ut qui velit quis minim quis ut eiusmod sint duis ut est eiusmod. Elit cillum cupidatat esse duis voluptate enim mollit. Fugiat velit ex dolor incididunt minim et ut magna nulla. Consequat aliquip dolore aliqua enim nostrud quis cupidatat occaecat consequat fugiat ea. Reprehenderit ex ea ea culpa aliqua tempor veniam sint. Fugiat deserunt anim pariatur id fugiat. Irure veniam velit sunt nisi enim Lorem eiusmod.\r\n",
+    "registered": "2015-05-21T12:38:30 -02:00",
+    "latitude": -43.298661,
+    "longitude": 161.040154,
+    "tags": [
+      "amet",
+      "consectetur",
+      "ad",
+      "mollit",
+      "nostrud",
+      "culpa",
+      "laborum"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Maxine Padilla"
+      },
+      {
+        "id": 1,
+        "name": "Alyssa Bentley"
+      },
+      {
+        "id": 2,
+        "name": "Ola Huffman"
+      }
+    ],
+    "greeting": "Hello, Delores Bond! You have 7 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67669ee923131b11f8d3022a",
+    "index": 1,
+    "guid": "2034916e-5710-4429-bbda-4b41090905a2",
+    "isActive": true,
+    "balance": "$2,400.57",
+    "picture": "http://placehold.it/32x32",
+    "age": 29,
+    "eyeColor": "green",
+    "name": "Mccormick Harris",
+    "gender": "male",
+    "company": "APPLIDEC",
+    "email": "mccormickharris@applidec.com",
+    "phone": "+1 (960) 579-3596",
+    "address": "139 Chase Court, Mooresburg, Kentucky, 8305",
+    "about": "Nostrud officia Lorem labore cupidatat non consectetur est anim nostrud veniam occaecat ad culpa. Est duis est quis nulla voluptate veniam commodo ex laborum tempor voluptate. Aliqua adipisicing proident qui sunt commodo.\r\n",
+    "registered": "2020-01-17T01:08:33 -02:00",
+    "latitude": 6.508265,
+    "longitude": 94.407225,
+    "tags": [
+      "nulla",
+      "eu",
+      "non",
+      "do",
+      "amet",
+      "deserunt",
+      "cupidatat"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Keller Chan"
+      },
+      {
+        "id": 1,
+        "name": "Watson Pollard"
+      },
+      {
+        "id": 2,
+        "name": "Letha Velasquez"
+      }
+    ],
+    "greeting": "Hello, Mccormick Harris! You have 5 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67669ee9630526b58e9e0174",
+    "index": 2,
+    "guid": "1899f06d-0471-45e1-bcf7-e225845de9ef",
+    "isActive": false,
+    "balance": "$1,688.62",
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "eyeColor": "brown",
+    "name": "Fox Delaney",
+    "gender": "male",
+    "company": "PORTALINE",
+    "email": "foxdelaney@portaline.com",
+    "phone": "+1 (944) 491-3820",
+    "address": "753 Boulevard Court, Oley, New Jersey, 8828",
+    "about": "Adipisicing excepteur cillum ipsum irure anim laborum eiusmod deserunt dolor. Ullamco eiusmod culpa do laboris. Fugiat pariatur cupidatat amet duis dolor. Anim proident eiusmod cupidatat eiusmod dolore ex sunt veniam est dolor do culpa. Do adipisicing amet ea adipisicing adipisicing ut occaecat sunt.\r\n",
+    "registered": "2017-01-01T10:07:23 -02:00",
+    "latitude": -72.220523,
+    "longitude": -113.32327,
+    "tags": [
+      "amet",
+      "anim",
+      "incididunt",
+      "est",
+      "aliquip",
+      "ea",
+      "mollit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Woodard Welch"
+      },
+      {
+        "id": 1,
+        "name": "Beverly Frederick"
+      },
+      {
+        "id": 2,
+        "name": "Marcie Valentine"
+      }
+    ],
+    "greeting": "Hello, Fox Delaney! You have 1 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "67669ee9978e60df62a076c7",
+    "index": 3,
+    "guid": "e0f17c14-27a0-448b-b06f-ab7130f08c5e",
+    "isActive": true,
+    "balance": "$1,898.26",
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "eyeColor": "green",
+    "name": "Freda Little",
+    "gender": "female",
+    "company": "RECRISYS",
+    "email": "fredalittle@recrisys.com",
+    "phone": "+1 (851) 475-3561",
+    "address": "338 Logan Street, Jacksonwald, Northern Mariana Islands, 6160",
+    "about": "Labore qui non voluptate anim velit. Do et dolor reprehenderit nulla qui. Culpa officia eu do laborum deserunt aute irure ex esse pariatur.\r\n",
+    "registered": "2023-09-28T11:35:57 -03:00",
+    "latitude": 44.90783,
+    "longitude": -2.493934,
+    "tags": [
+      "officia",
+      "nostrud",
+      "excepteur",
+      "ipsum",
+      "labore",
+      "adipisicing",
+      "excepteur"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mayo Hurley"
+      },
+      {
+        "id": 1,
+        "name": "Carmella Barton"
+      },
+      {
+        "id": 2,
+        "name": "Nannie Pittman"
+      }
+    ],
+    "greeting": "Hello, Freda Little! You have 5 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "_id": "67669ee92dae1aec2fb150ef",
+    "index": 4,
+    "guid": "f0cef2d6-b908-4184-811b-7fe60d775939",
+    "isActive": false,
+    "balance": "$1,588.86",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "brown",
+    "name": "Vivian Wheeler",
+    "gender": "female",
+    "company": "VERTON",
+    "email": "vivianwheeler@verton.com",
+    "phone": "+1 (900) 415-2909",
+    "address": "381 Foster Avenue, Martell, Washington, 362",
+    "about": "Velit eiusmod ex exercitation laborum ad reprehenderit ad ullamco anim magna aliqua Lorem ipsum amet. Do proident adipisicing labore dolore. Laborum irure minim Lorem ea velit exercitation qui ipsum ex dolore ipsum aliquip veniam. Officia reprehenderit cupidatat nostrud labore magna nisi. Quis commodo exercitation velit mollit sit amet.\r\n",
+    "registered": "2020-01-04T10:00:46 -02:00",
+    "latitude": -0.483509,
+    "longitude": -117.38888,
+    "tags": [
+      "consequat",
+      "in",
+      "fugiat",
+      "ad",
+      "proident",
+      "amet",
+      "exercitation"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Barrera Weiss"
+      },
+      {
+        "id": 1,
+        "name": "Maribel Buck"
+      },
+      {
+        "id": 2,
+        "name": "Kelly Wright"
+      }
+    ],
+    "greeting": "Hello, Vivian Wheeler! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]

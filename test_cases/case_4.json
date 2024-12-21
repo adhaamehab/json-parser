@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "67669f3b033bbf308d470118",
+    "index": 0,
+    "guid": "3eba59f9-2905-45e1-818f-60a65eae4441",
+    "isActive": true,
+    "balance": "$3,151.44",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Mclaughlin Chambers",
+    "gender": "male",
+    "company": "ISOSPHERE",
+    "email": "mclaughlinchambers@isosphere.com",
+    "phone": "+1 (901) 452-3671",
+    "address": "824 Losee Terrace, Wollochet, Nebraska, 2217",
+    "about": "Cupidatat veniam sint fugiat ullamco velit cillum laborum sit veniam incididunt ea mollit. Nostrud ullamco pariatur ea adipisicing sint cillum est proident. Aliquip et enim qui deserunt exercitation. Exercitation minim tempor consectetur cupidatat nisi id voluptate ut laborum cillum velit eu proident adipisicing. Magna in nulla veniam exercitation fugiat mollit officia irure cupidatat proident nostrud. Ut eu fugiat nostrud aliquip minim ad velit pariatur ea aliquip elit amet. Qui cupidatat sunt et culpa sit nisi commodo non quis id velit quis sit.\r\n",
+    "registered": "2024-07-31T07:09:03 -03:00",
+    "latitude": -22.498171,
+    "longitude": -149.232939,
+    "tags": [
+      "tempor",
+      "laborum",
+      "nisi",
+      "consectetur",
+      "elit",
+      "quis",
+      "dolore"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Pat Witt"
+      },
+      {
+        "id": 1,
+        "name": "Frazier Lloyd"
+      },
+      {
+        "id": 2,
+        "name": "Burnett Garrison"
+      }
+    ],
+    "greeting": "Hello, Mclaughlin Chambers! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]

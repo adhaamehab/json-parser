@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "67669f665fd53f041b7b312f",
+    "index": 0,
+    "guid": "e524203a-0712-4380-8941-2d7b0d4211f7",
+    "isActive": true,
+    "balance": "$2,544.56",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "brown",
+    "name": "Snyder Griffin",
+    "gender": "male",
+    "company": "TETRATREX",
+    "email": "snydergriffin@tetratrex.com",
+    "phone": "+1 (825) 414-3490",
+    "address": "762 Schaefer Street, Fairfield, West Virginia, 6274",
+    "about": "Duis commodo velit cupidatat elit mollit exercitation ut aliquip proident eu cillum. Occaecat pariatur cupidatat sunt reprehenderit mollit. Ipsum aute est pariatur aliqua velit incididunt in occaecat. Proident nulla excepteur minim velit qui eu. Amet ullamco adipisicing minim velit nisi consectetur consequat quis enim aliquip velit. Ipsum consectetur duis consequat fugiat dolore laborum. Quis dolore aliqua esse in in consequat.\r\n",
+    "registered": "2019-06-17T10:38:45 -02:00",
+    "latitude": 52.452091,
+    "longitude": -159.226197,
+    "tags": [
+      "proident",
+      "exercitation",
+      "laborum",
+      "proident",
+      "consectetur",
+      "consequat",
+      "qui"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Fay Flores"
+      },
+      {
+        "id": 1,
+        "name": "Nellie Durham"
+      },
+      {
+        "id": 2,
+        "name": "Oneil Lindsey"
+      }
+    ],
+    "greeting": "Hello, Snyder Griffin! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
+]
